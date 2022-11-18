@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="missingTranslation">
+
+    <!--美颜会员订阅-->
+    <string name="vip_year_suffix"> CNY yearly</string>
+	</resources>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="missingTranslation">
+
+    <!--美颜会员订阅-->
+    <string name="retain_special_texture_title">Style</string>
+    <string name="retain_special_original_title">Natural mode</string>
+    <string name="retain_special_texture_tips">Personalized effects on Style</string>
+    <string name="retain_special_original_tips">Brilliant effects on Natural mode</string>
+
+    <string name="retain_ai_beauty_teeth_title">Teeth correction</string>
+    <string name="retain_ai_beauty_teeth_tips">Smartly detect and adjust teeth effects</string>
+    <string name="retain_dialog_sure_tips">Subscribe</string>
+    <string name="retain_dialog_picture_message_tips">You will not be able to keep the photo neither enjoy the following features:</string>
+    <string name="retain_dialog_video_message_tips">You will not be able to keep the video neither enjoy the following features:</string>
+    <string name="retain_dialog_gif_message_tips">You will not be able to keep the GIF neither enjoy the following features:</string>
+    <string name="retain_dialog_vip_message_tips">You will not be able to enjoy the following features:</string>
+
+    <string name="pro_vip_dialog_vip_title">Subscription Plan</string>
+
+    <string name="pro_vip_pay_has_pay_permission">You have already purchased the item.</string>
+    <string name="pro_vip_pay_has_pay_renewal_vip">You have already enabled auto renew.</string>
+
+    <string name="iap_pop_pay_wx_notsupport">Payment service is not supported on this version. Please update to try again.</string>
+    <string name="iap_pop_pay_wx_uninstalled">You\'ve not installed WeChat. Please install it before try again.</string>
+    <string name="iap_pop_pay_alipay_result_handling">Processing AliPay payment…</string>
+
+
+    <string name="vip_renewal_month_title">Monthly</string>
+    <string name="vip_one_month_title">1 month</string>
+    <string name="vip_renewal_season_title">Quarterly</string>
+    <string name="vip_three_month_title">3 months</string>
+    <string name="vip_renewal_year_title">Yearly</string>
+    <string name="vip_one_year_title">1 year</string>
+    <string name="vip_month_suffix"> CNY monthly</string>
+    <string name="vip_season_suffix"> CNY quarterly</string>
+    <string name="vip_year_suffix"> CNY yearly</string>
+
+    <!--   模块化，实际用的是app下文案，无需翻译-->
+    <string name="member_service_agreement_url">https://pro.meitu.com/meiyan/agreements/membership.html?lang=en</string>
+    <string name="selfie_camera_mode_multi">多格相机</string>
+
+    <!--  934 -->
+    <string name="pro_vip_dialog_pay_vip_sure_tips_new">Subscribe now</string>
+    <string name="pro_vip_dialog_pay_continue_vip_sure_tips_new">Renew</string>
+    <string name="retain_special_material_title">Exclusive effects</string>
+    <string name="retain_special_material_tips">Create your own styles</string>
+    <string name="retain_much_grid_camera_tips">Capture life from different perspectives</string>
+
+    <!--  952 -->
+    <string name="pro_vip_dialog_subtitle">Join Pro membership to save this perfect photo! [Find out all Pro features&gt;]</string>
+    <string name="pro_vip_dialog_renewal_month_sure_tips">%s CNY/month</string>
+    <string name="pro_vip_dialog_renewal_year_sure_tips">%s CNY/year</string>
+    <string name="pro_vip_dialog_renewal_month_auto_tips">%s CNY monthly </string>
+    <string name="pro_vip_dialog_renewal_year_auto_tips">%s CNY yearly</string>
+    <string name="pro_vip_dialog_renewal_original_price_tips">Original price %s CNY</string>
+    <string name="pro_vip_dialog_auto_split">/</string>
+    <string name="retain_dialog_cancel_tips">Quit</string>
+
+    <!--954-->
+    <string name="vip_try_subscribe">Free Trial</string>
+    <string name="vip_tip_dialog_title_try_subscribe">Automatically renews for %2$s after %1$d-day free trial. You can cancel it at any time.</string>
+
+    <string name="vip_tip_dialog_subscribe_wechat_refresh_vip">Have you completed the payment?</string>
+    <string name="vip_tip_dialog_subscribe_wechat_refresh_vip_ok">Yes</string>
+    <string name="vip_tip_dialog_subscribe_wechat_refresh_vip_cancel">No</string>
+
+    <!-- 960 -->
+    <string name="pro_vip_dialog_privacy">Agreements | FAQ</string>
+
+    <!--962-->
+    <string name="pro_vip_30_min_record">Video duration: 30 minutes</string>
+    <string name="pro_vip_30_min_tip">Exclusive function for members. Join Pro membership to take a 30-minute long video.</string>
+
+    <!--会员半窗订阅组合AB-->
+    <string name="vip_try_subscribe_subtitle">Automatically renews for %2$s after %1$d days.</string>
+    <string name="vip_tip_dialog_try_subscribe_1">Automatically renews for %2$s after %1$d days. You can cancel it at any time.</string>
+    <string name="pro_vip_dialog_renewal_season_sure_tips">%s CNY/Quarter</string>
+    <string name="pro_vip_dialog_forever_sure_tips">A One-Time Purchase of %s CNY</string>
+    <string name="pro_vip_dialog_renewal_season_auto_tips">%s CNY quarterly</string>
+
+    <string name="pro_vip_agreement_btn_agree">Agree &amp; Continue</string>
+
+    <!-- 谷歌支付 -->
+    <string name="pro_vip_dialog_privacy_google">Privacy Policy | Agreements | FAQ</string>
+    <string name="vip_month_suffix_google"> monthly</string>
+    <string name="vip_season_suffix_google"> quarterly</string>
+    <string name="vip_year_suffix_google"> yearly</string>
+    <string name="pro_vip_dialog_renewal_month_sure_tips_google">%s/month</string>
+    <string name="pro_vip_dialog_renewal_year_sure_tips_google">%s/year</string>
+    <string name="pro_vip_dialog_renewal_month_auto_tips_google">%s monthly </string>
+    <string name="pro_vip_dialog_renewal_year_auto_tips_google">%s yearly</string>
+    <string name="pro_vip_dialog_renewal_original_price_tips_google">Original price %s</string>
+    <string name="pro_vip_dialog_renewal_season_sure_tips_google">%s/Quarter</string>
+    <string name="pro_vip_dialog_forever_sure_tips_google">A One-Time Purchase of %s</string>
+    <string name="pro_vip_dialog_renewal_season_auto_tips_google">%s quarterly</string>
+    <string name="google_pay_feature_not_supported_tips">The current version of Google Play Store does not support the subscription function. Please update it before trying again.</string>
+
+    <string name="retain_dialog_title">Not getting BeautyCam Pro?</string>
+    <string name="pro_vip_agreement_title">Terms of Service of BeautyCam VIP</string>
+    <string name="pro_vip_permission_tips">Join VIP membership to unlock all exclusive features.</string>
+    <string name="pro_vip_remove_permission_button">Remove effectS</string>
+    <string name="pro_vip_remove_permission_positive">Remove</string>
+    <string name="pro_vip_remove_permission_negative">Later</string>
+    <string name="pro_vip_pay_success_title">You now have access to all VIP membership features!</string>
+    <string name="pro_vip_pay_success_confirm">Try Now</string>
+    <string name="pro_vip_pay_success_dialog_content_one">Remove wrinkles, apply teeth correction, and more</string>
+    <string name="pro_vip_pay_success_dialog_content_two">Tons of filters, stickers and style effects</string>
+    <string name="pro_vip_pay_success_dialog_content_three">No ads</string>
+    <string name="pro_vip_pay_success_dialog_content_four">More benefits coming soon</string>
+    <string name="pro_vip_pay_loading_dialog_tips_deal_pay">Processing payment...  </string>
+    <string name="pro_vip_pay_loading_dialog_tips_conn_pay">Entering payment page </string>
+    <string name="pro_vip_pay_loading_dialog_tips_not_leave">Please stay on this page </string>
+    <string name="pro_vip_dialog_pay_vip_tips_promotional">Limited Time Offer. Automatically renews for %s. You can cancel it at any time. </string>
+    <string name="pro_vip_pay_has_pay_other_platform">You are already a VIP user. Please go to purchase it in your iOS device.</string>
+    <string name="vip_retain_bottom_subscribe_immediately">Renew Now</string>
+    <string name="vip_retain_bottom_dear_text">Dear %s,</string>
+    <string name="vip_retain_bottom_dear_user_text">BeautyCam user</string>
+    <string name="vip_retain_bottom_day_text">You have been a VIP user for %s days</string>
+    <string name="vip_retain_bottom_vip_use_day_text">and have used your VIP benefits %s times.</string>
+    <string name="vip_retain_bottom_vip_create_text">You have created countless outstanding works!</string>
+    <string name="vip_retain_bottom_vip_use_part_text">and saved %2$s photos that apply effects in %1$s module.</string>
+	<string name="vip_tip_title_content">You are using a VIP-only effect. Become a VIP member to save this photo!</string>
+	<string name="test">None</string>
+	<!--待翻译标记（以下为新增文案）-->
+</resources>
